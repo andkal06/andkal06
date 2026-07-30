@@ -1,0 +1,64 @@
+<svg width="1400" height="220" viewBox="0 0 1400 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1a3d"/>
+      <stop offset="100%" stop-color="#050a17"/>
+    </linearGradient>
+    <filter id="starGlowF" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frameF">
+      <rect width="1400" height="220" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameF)">
+    <rect width="1400" height="220" fill="url(#skyF)"/>
+
+    <g fill="#c9d6f5" opacity="0.45">
+      <circle cx="80" cy="40" r="0.8"/><circle cx="150" cy="90" r="0.6"/><circle cx="230" cy="50" r="0.7"/>
+      <circle cx="320" cy="110" r="0.6"/><circle cx="410" cy="60" r="0.8"/><circle cx="500" cy="130" r="0.6"/>
+      <circle cx="900" cy="50" r="0.7"/><circle cx="980" cy="100" r="0.6"/><circle cx="1070" cy="60" r="0.8"/>
+      <circle cx="1160" cy="120" r="0.6"/><circle cx="1250" cy="70" r="0.7"/><circle cx="1330" cy="110" r="0.6"/>
+      <circle cx="620" cy="170" r="0.6"/><circle cx="720" cy="40" r="0.7"/><circle cx="820" cy="160" r="0.6"/>
+    </g>
+
+    <g fill="#ffffff">
+      <circle cx="200" cy="60" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="480" cy="150" r="1.2"><animate attributeName="opacity" values="1;0.25;1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="90" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="950" cy="150" r="1.1"><animate attributeName="opacity" values="1;0.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1200" cy="50" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g stroke="#9fb4e8" stroke-width="1" opacity="0.25">
+      <line x1="600" y1="45" x2="655" y2="70"/>
+      <line x1="655" y1="70" x2="715" y2="50"/>
+      <line x1="715" y1="50" x2="760" y2="90"/>
+    </g>
+    <g fill="#eaf0ff" filter="url(#starGlowF)">
+      <circle cx="600" cy="45" r="1.4"/>
+      <circle cx="655" cy="70" r="1.5"/>
+      <circle cx="715" cy="50" r="1.3"/>
+      <circle cx="760" cy="90" r="1.4"/>
+    </g>
+
+    <circle cx="120" cy="55" r="26" fill="#eef2fb" opacity="0.9"/>
+    <circle cx="112" cy="48" r="3" fill="#c3cfea" opacity="0.5"/>
+    <circle cx="128" cy="60" r="4" fill="#c3cfea" opacity="0.5"/>
+
+    <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+      <text x="700" y="140" fill="#f3f6ff" font-size="21" font-style="italic" letter-spacing="0.3">
+        May every line of code become another star in the universe.
+      </text>
+    </g>
+
+    <text x="700" y="185" text-anchor="middle" fill="#7d8fc9" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2">
+      © KALYA ANDRIANA
+    </text>
+  </g>
+</svg>
