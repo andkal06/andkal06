@@ -18,15 +18,13 @@ That is where most of what follows was built.
 
 ## <img src="https://em-content.zobj.net/source/apple/391/crescent-moon_1f319.png" width="22"/>&nbsp; About Me
 
-I'm **Kalya Andriana**, an **Internet Engineering student at Universitas Gadjah Mada**, quietly obsessed with teaching machines to *see*, to *defend*, and to *sense* the world around them.
+I'm **Kalya Andriana**, an **Internet Engineering student at Universitas Gadjah Mada**, learning to break systems before others do and to build machines that *see*, *defend*, *sense* the world around them.
 
 My work sits at the intersection of three constellations:
 
 - 🧠 **Artificial Intelligence & Computer Vision** — building systems that interpret what a camera sees the way a person would
 - 🛡️ **Cybersecurity** — protecting the quiet infrastructure that everything else depends on
 - 📡 **IoT** — connecting the physical world to something that can think about it
-
-I don't build things to impress a portfolio. I build them because a working system, however small, is a kind of proof that an idea survived contact with reality. I'm still learning, still breaking things at 2 AM, still chasing the next problem worth solving.
 
 <br />
 
