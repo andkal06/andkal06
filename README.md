@@ -7,12 +7,6 @@
 <br />
 
 <div align="center">
-<i>
-There is a particular kind of quiet that settles in after midnight — <br/>
-when the terminal is the only light left on, and the cursor blinks like something waiting to be told a secret.<br/>
-That is where most of what follows was built.
-</i>
-</div>
 
 <br /><br />
 
@@ -36,7 +30,7 @@ I don't build things to impress a portfolio. I build them because a working syst
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash&theme=dark" />
 </p>
 
 **AI & Machine Learning**
@@ -56,7 +50,7 @@ I don't build things to impress a portfolio. I build them because a working syst
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" />
 </p>
 
 <br />
@@ -84,29 +78,17 @@ Real-time monitoring that reads eye closure and head posture to catch drowsiness
 
 **Stack:** `Python` `OpenCV` `Dlib` `CNN`
 
-[→ View Repository](https://github.com/kalyaandriana)
+[→ View Repository](https://github.com/andkal06)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 SafeVault IoT
-A secured IoT access-control system built around encrypted authentication, designed so that "smart" locks stop being the easiest way into a building.
-
-**Stack:** `Arduino` `C++` `IoT Security` `Encryption`
-
-[→ View Repository](https://github.com/kalyaandriana)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🌱 Hydrovia IoT
 A sensor network for real-time water and irrigation monitoring — because agriculture deserves the same precision we give to everything else.
 
 **Stack:** `IoT` `Sensors` `Embedded C` `Cloud`
-
-[→ View Repository](https://github.com/kalyaandriana)
 
 </td>
 </tr>
@@ -118,7 +100,7 @@ A federated learning pipeline for ECG classification that trains across distribu
 
 **Stack:** `Python` `TensorFlow` `Federated Learning`
 
-[→ View Repository](https://github.com/kalyaandriana)
+[→ View Repository](https://github.com/andkal06)
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +110,7 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 
 **Stack:** `Python` `TensorFlow` `CNN` `Medical Imaging`
 
-[→ View Repository](https://github.com/kalyaandriana)
+[→ View Repository](https://github.com/andkal06)
 
 </td>
 </tr>
@@ -142,16 +124,16 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kalyaandriana&show_icons=true&hide_border=true&title_color=eaf0ff&text_color=a9b8e0&icon_color=8ea2d4&bg_color=0d1a3d00&hide_rank=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyaandriana&layout=compact&hide_border=true&title_color=eaf0ff&text_color=a9b8e0&bg_color=0d1a3d00" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andkal06&show_icons=true&hide_border=true&title_color=eaf0ff&text_color=a9b8e0&icon_color=8ea2d4&bg_color=0d1a3d00&hide_rank=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andkal06&layout=compact&hide_border=true&title_color=eaf0ff&text_color=a9b8e0&bg_color=0d1a3d00" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalyaandriana&hide_border=true&background=0D1A3D00&stroke=3a4a80&ring=8ea2d4&fire=eaf0ff&currStreakLabel=eaf0ff&sideLabels=a9b8e0&sideNums=eaf0ff&dates=6b7bb0" />
+<img src="https://streak-stats.demolab.com/?user=andkal06&hide_border=true&background=0D1A3D00&stroke=3a4a80&ring=8ea2d4&fire=eaf0ff&currStreakLabel=eaf0ff&sideLabels=a9b8e0&sideNums=eaf0ff&dates=6b7bb0" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyaandriana&theme=react-dark&hide_border=true&bg_color=0D1A3D00&color=a9b8e0&line=8ea2d4&point=eaf0ff&area=true&area_color=3a4a80" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andkal06&theme=react-dark&hide_border=true&bg_color=0D1A3D00&color=a9b8e0&line=8ea2d4&point=eaf0ff&area=true&area_color=3a4a80" width="100%"/>
 
 </div>
 
@@ -178,13 +160,10 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 <a href="https://linkedin.com/in/kalyaandriana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A1330?style=for-the-badge&logo=linkedin&logoColor=eaf0ff" />
 </a>
-<a href="mailto:kalya.andriana@mail.ugm.ac.id" target="_blank">
+<a href="mailto:kalyaandriana24@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0A1330?style=for-the-badge&logo=gmail&logoColor=eaf0ff" />
 </a>
-<a href="https://kalyaandriana.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A1330?style=for-the-badge&logo=safari&logoColor=eaf0ff" />
-</a>
-<a href="https://github.com/kalyaandriana" target="_blank">
+<a href="https://github.com/andkal06" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0A1330?style=for-the-badge&logo=github&logoColor=eaf0ff" />
 </a>
 
@@ -193,5 +172,5 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 <br />
 
 <div align="center">
-<img src="./assets/footer.svg" alt="May every line of code become another star in the universe." width="100%" />
+<img src="./assets/footer.svg" width="100%" />
 </div>
