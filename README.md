@@ -7,6 +7,12 @@
 <br />
 
 <div align="center">
+<i>
+There is a particular kind of quiet that settles in after midnight — <br/>
+when the terminal is the only light left on, and the cursor blinks like something waiting to be told a secret.<br/>
+That is where most of what follows was built.
+</i>
+</div>
 
 <br /><br />
 
@@ -20,7 +26,7 @@ My work sits at the intersection of three constellations:
 - 🛡️ **Cybersecurity** — protecting the quiet infrastructure that everything else depends on
 - 📡 **IoT** — connecting the physical world to something that can think about it
 
-I don't build things to impress a portfolio. I build them because a working system, however small, is a kind of proof — that an idea survived contact with reality. I'm still learning, still breaking things at 2 AM, still chasing the next problem worth solving.
+I don't build things to impress a portfolio. I build them because a working system, however small, is a kind of proof that an idea survived contact with reality. I'm still learning, still breaking things at 2 AM, still chasing the next problem worth solving.
 
 <br />
 
@@ -41,16 +47,18 @@ I don't build things to impress a portfolio. I build them because a working syst
 **Cybersecurity**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,wireshark,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Nmap-0A1330?style=for-the-badge&logo=nmap&logoColor=eaf0ff" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-0A1330?style=for-the-badge&logo=burpsuite&logoColor=eaf0ff" />
 </p>
 
 **IoT**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
 </p>
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
 <br />
@@ -68,27 +76,17 @@ Computer vision system that identifies structural damage on shipping boxes befor
 
 **Stack:** `Python` `PyTorch` `OpenCV` `YOLO`
 
-[→ View Repository](https://github.com/kalyaandriana)
+[→ View Repository](https://github.com/andkal06/Box-Damage-Detection)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Driver Fatigue Detection
-Real-time monitoring that reads eye closure and head posture to catch drowsiness before it becomes a headline. A small model, watching quietly, for a reason that matters.
+### 🚧 Unsafe Behavior Detection
+A YOLO-based vision system trained to spot unsafe behavior in real time — built for environments where a missed warning has real consequences.
 
-**Stack:** `Python` `OpenCV` `Dlib` `CNN`
+**Stack:** `Python` `YOLO` `Computer Vision`
 
-[→ View Repository](https://github.com/andkal06)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Hydrovia IoT
-A sensor network for real-time water and irrigation monitoring — because agriculture deserves the same precision we give to everything else.
-
-**Stack:** `IoT` `Sensors` `Embedded C` `Cloud`
+[→ View Repository](https://github.com/andkal06/Unsafe-Behavior-Detection-Using-Yolo-)
 
 </td>
 </tr>
@@ -98,9 +96,9 @@ A sensor network for real-time water and irrigation monitoring — because agric
 ### ❤️ ECG Federated Learning
 A federated learning pipeline for ECG classification that trains across distributed data without the data ever having to leave home — privacy and accuracy, held in balance.
 
-**Stack:** `Python` `TensorFlow` `Federated Learning`
+**Stack:** `Python` `Jupyter Notebook` `Federated Learning`
 
-[→ View Repository](https://github.com/andkal06)
+[→ View Repository](https://github.com/andkal06/ECG-FEDERATED-LEARNING-)
 
 </td>
 <td width="50%" valign="top">
@@ -108,9 +106,68 @@ A federated learning pipeline for ECG classification that trains across distribu
 ### 🫁 COVID-19 Detection
 A deep learning model trained on chest X-rays to assist in early COVID-19 screening — one of the earlier reminders that code can carry real weight.
 
-**Stack:** `Python` `TensorFlow` `CNN` `Medical Imaging`
+**Stack:** `Python` `CNN` `Transformer` `Medical Imaging`
 
-[→ View Repository](https://github.com/andkal06)
+[→ View Repository](https://github.com/andkal06/COVID19-Detection-from-Chest-X-Ray-using-CNN-Transformer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🙂 Face Expression Detection — YOLOv11s
+A facial expression recognition model built on YOLOv11s, tuned for speed without losing read on subtle expression shifts.
+
+**Stack:** `Python` `YOLOv11s` `Computer Vision`
+
+[→ View Repository](https://github.com/andkal06/Face-Expression-Detection-Using-YOLOV11S)
+
+</td>
+<td width="50%" valign="top">
+
+### 😐 Face Expression Detection — YOLOv8s
+An earlier iteration of the same problem solved with YOLOv8s — kept as a record of how the approach evolved.
+
+**Stack:** `Python` `Jupyter Notebook` `YOLOv8s`
+
+[→ View Repository](https://github.com/andkal06/Face-Expression-Detection-Using-Yolov8S)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 AI Fertilizer Recommendation
+A machine learning model that recommends fertilizer type and dosage from soil and crop conditions — a small attempt at making agriculture a little more precise.
+
+**Stack:** `Python` `Jupyter Notebook` `Machine Learning`
+
+[→ View Repository](https://github.com/andkal06/AI-Fertilizer-Recommendation-model)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚩 CTF Write-Ups
+A running collection of write-ups from Capture The Flag challenges — the trail left behind by every rabbit hole worth going down.
+
+**Stack:** `Security` `CTF` `Write-ups`
+
+[→ View Repository](https://github.com/andkal06/CTF-Write-Up-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ To-Do List (Python)
+A clean, simple to-do list app — proof that not everything has to be complicated to be worth building well.
+
+**Stack:** `Python` `HTML`
+
+[→ View Repository](https://github.com/andkal06/To-Do-List-Python)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -172,5 +229,5 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 <br />
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" />
+<img src="./assets/footer.svg" alt="May every line of code become another star in the universe." width="100%" />
 </div>
