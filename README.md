@@ -44,10 +44,12 @@ My work sits at the intersection of three constellations:
 
 **Cybersecurity**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wireshark,bash&theme=dark" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-0A1330?style=for-the-badge&logo=kalilinux&logoColor=eaf0ff" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0A1330?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Wireshark-0A1330?style=for-the-badge&logo=wireshark" />
   <img src="https://img.shields.io/badge/Nmap-0A1330?style=for-the-badge&logoColor=eaf0ff" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-0A1330?style=for-the-badge&logo=burpsuite&logoColor=eaf0ff" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-0A1330?style=for-the-badge&logo=burpsuite" />
+  <img src="https://img.shields.io/badge/Ghidra-0A1330?style=for-the-badge&logoColor=eaf0ff" />
 </p>
 
 **IoT**
