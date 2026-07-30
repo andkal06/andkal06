@@ -186,7 +186,7 @@ A clean, simple to-do list app — proof that not everything has to be complicat
 
 <div align="center">
 
-<a href="https://linkedin.com/in/kalyaandriana" target="_blank">
+<a href="https://linkedin.com/in/kalya-andriana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A1330?style=for-the-badge&logo=linkedin&logoColor=eaf0ff" />
 </a>
 <a href="mailto:kalyaandriana24@gmail.com" target="_blank">
