@@ -192,21 +192,6 @@ A clean, simple to-do list app — proof that not everything has to be complicat
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkal06&theme=react-dark&hide_border=true&bg_color=0D1A3D00&color=a9b8e0&line=8ea2d4&point=eaf0ff&area=true&area_color=3a4a80" width="100%"/>
 
-</div>
-
-<br />
-
-## <img src="https://em-content.zobj.net/source/apple/391/telescope_1f52d.png" width="20"/>&nbsp; Currently Learning
-
-<div align="left">
-
-&nbsp;&nbsp;✦&nbsp; **SOC** — Security Operations fundamentals
-&nbsp;&nbsp;✦&nbsp; **Blue Team** — detection, response, and defense
-&nbsp;&nbsp;✦&nbsp; **SIEM** — log correlation and threat visibility
-&nbsp;&nbsp;✦&nbsp; **React Native** — building for the world beyond the browser
-&nbsp;&nbsp;✦&nbsp; **MLOps** — taking models from notebook to production
-
-</div>
 
 <br />
 
