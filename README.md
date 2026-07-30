@@ -22,9 +22,9 @@ I'm **Kalya Andriana**, an **Internet Engineering student at Universitas Gadjah 
 
 My work sits at the intersection of three constellations:
 
-- 🧠 **Artificial Intelligence & Computer Vision** — building systems that interpret what a camera sees the way a person would
-- 🛡️ **Cybersecurity** — protecting the quiet infrastructure that everything else depends on
-- 📡 **IoT** — connecting the physical world to something that can think about it
+- **Artificial Intelligence & Computer Vision** — building systems that interpret what a camera sees the way a person would
+- **Cybersecurity** — protecting the quiet infrastructure that everything else depends on
+- **IoT** — connecting the physical world to something that can think about it
 
 <br />
 
@@ -34,7 +34,7 @@ My work sits at the intersection of three constellations:
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" />
 </p>
 
 **AI & Machine Learning**
@@ -44,8 +44,9 @@ My work sits at the intersection of three constellations:
 
 **Cybersecurity**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,wireshark,bash&theme=dark" />
-  <img src="https://img.shields.io/badge/Nmap-0A1330?style=for-the-badge&logo=nmap&logoColor=eaf0ff" />
+  <img src="https://skillicons.dev/icons?i=wireshark,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0A1330?style=for-the-badge&logo=kalilinux&logoColor=eaf0ff" />
+  <img src="https://img.shields.io/badge/Nmap-0A1330?style=for-the-badge&logoColor=eaf0ff" />
   <img src="https://img.shields.io/badge/Burp%20Suite-0A1330?style=for-the-badge&logo=burpsuite&logoColor=eaf0ff" />
 </p>
 
@@ -56,7 +57,7 @@ My work sits at the intersection of three constellations:
 
 **Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma&theme=dark" />
 </p>
 
 <br />
@@ -69,7 +70,7 @@ My work sits at the intersection of three constellations:
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Box Damage Detection
+### Box Damage Detection
 Computer vision system that identifies structural damage on shipping boxes before they leave the warehouse, catching what a tired human eye might miss on the thousandth package of the day.
 
 **Stack:** `Python` `PyTorch` `OpenCV` `YOLO`
@@ -79,7 +80,7 @@ Computer vision system that identifies structural damage on shipping boxes befor
 </td>
 <td width="50%" valign="top">
 
-### 🚧 Unsafe Behavior Detection
+### Unsafe Behavior Detection
 A YOLO-based vision system trained to spot unsafe behavior in real time — built for environments where a missed warning has real consequences.
 
 **Stack:** `Python` `YOLO` `Computer Vision`
@@ -91,7 +92,7 @@ A YOLO-based vision system trained to spot unsafe behavior in real time — buil
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ ECG Federated Learning
+### ECG Federated Learning
 A federated learning pipeline for ECG classification that trains across distributed data without the data ever having to leave home — privacy and accuracy, held in balance.
 
 **Stack:** `Python` `Jupyter Notebook` `Federated Learning`
@@ -101,7 +102,7 @@ A federated learning pipeline for ECG classification that trains across distribu
 </td>
 <td width="50%" valign="top">
 
-### 🫁 COVID-19 Detection
+### COVID-19 Detection
 A deep learning model trained on chest X-rays to assist in early COVID-19 screening — one of the earlier reminders that code can carry real weight.
 
 **Stack:** `Python` `CNN` `Transformer` `Medical Imaging`
@@ -113,29 +114,18 @@ A deep learning model trained on chest X-rays to assist in early COVID-19 screen
 <tr>
 <td width="50%" valign="top">
 
-### 🙂 Face Expression Detection — YOLOv11s
-A facial expression recognition model built on YOLOv11s, tuned for speed without losing read on subtle expression shifts.
+### Face Expression Detection
+A facial expression recognition system built on YOLO, evolved from an initial YOLOv8s baseline into a faster, more refined YOLOv11s version — both kept as a record of how the approach improved over time.
 
-**Stack:** `Python` `YOLOv11s` `Computer Vision`
+**Stack:** `Python` `YOLOv11s` `YOLOv8s` `Computer Vision`
 
-[→ View Repository](https://github.com/andkal06/Face-Expression-Detection-Using-YOLOV11S)
+[→ View Repository (YOLOv11s)](https://github.com/andkal06/Face-Expression-Detection-Using-YOLOV11S)
+[→ Earlier version (YOLOv8s)](https://github.com/andkal06/Face-Expression-Detection-Using-Yolov8S)
 
 </td>
 <td width="50%" valign="top">
 
-### 😐 Face Expression Detection — YOLOv8s
-An earlier iteration of the same problem solved with YOLOv8s — kept as a record of how the approach evolved.
-
-**Stack:** `Python` `Jupyter Notebook` `YOLOv8s`
-
-[→ View Repository](https://github.com/andkal06/Face-Expression-Detection-Using-Yolov8S)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 AI Fertilizer Recommendation
+###  AI Fertilizer Recommendation
 A machine learning model that recommends fertilizer type and dosage from soil and crop conditions — a small attempt at making agriculture a little more precise.
 
 **Stack:** `Python` `Jupyter Notebook` `Machine Learning`
@@ -143,9 +133,11 @@ A machine learning model that recommends fertilizer type and dosage from soil an
 [→ View Repository](https://github.com/andkal06/AI-Fertilizer-Recommendation-model)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🚩 CTF Write-Ups
+###  CTF Write-Ups
 A running collection of write-ups from Capture The Flag challenges — the trail left behind by every rabbit hole worth going down.
 
 **Stack:** `Security` `CTF` `Write-ups`
@@ -153,19 +145,14 @@ A running collection of write-ups from Capture The Flag challenges — the trail
 [→ View Repository](https://github.com/andkal06/CTF-Write-Up-)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### ✅ To-Do List (Python)
+### To-Do List (Python)
 A clean, simple to-do list app — proof that not everything has to be complicated to be worth building well.
 
 **Stack:** `Python` `HTML`
 
 [→ View Repository](https://github.com/andkal06/To-Do-List-Python)
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
